@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifestConfig xmlns:android="http://schemas.android.com/apk/res/android">
+    <applicationCfg keyword="com.adcash.mobileads.AdcashInterstitialActivity">
+        <activity
+            android:name="com.adcash.mobileads.AdcashInterstitialActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation"/>
+    </applicationCfg>
+
+    <permissionCfg>
+        <uses-permission android:name="android.permission.INTERNET"/>
+        <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+		<uses-permission android:name="android.permission.ACCESS_WIFI_STATE"/>
+    </permissionCfg>
+</manifestConfig> 
