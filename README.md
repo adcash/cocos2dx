@@ -1,4 +1,4 @@
-Adcash Plugin for Cocos2D-X
+## Adcash Plugin for Cocos2D-X
 
 ### Supported Platforms
  * iOS
